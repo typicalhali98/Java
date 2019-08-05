@@ -1,0 +1,4 @@
+﻿Real Madrid - Ajax;59;Madrid;21:00
+Bayern München - Barcelona;87;München;21:00
+Sevilla - Mol Videoton;34;Sevilla;21:00
+Manchester United - PSG;59;Manchester;21:00
